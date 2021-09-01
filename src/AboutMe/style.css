@@ -1,0 +1,35 @@
+.aboutMe {
+  background: #f6f6f6;
+  padding-top: 120px;
+  padding-bottom: 100px;
+  margin-bottom: 91px;
+}
+.aboutHuman {
+  color: black;
+}
+.aboutContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.AboutMep {
+  font-family: Gilroy-Bold;
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+
+  /* Black */
+
+  color: #070707;
+}
+.aaasss {
+  font-family: Gilroy-Medium;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+
+  /* Black */
+
+  color: #070707;
+}

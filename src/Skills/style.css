@@ -1,0 +1,47 @@
+.skillsName {
+  font-family: Gilroy-Bold;
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+
+  /* Black */
+
+  color: #070707;
+}
+.work {
+  font-family: Gilroy-Medium;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  margin-top: 69px;
+  /* Black */
+
+  color: #070707;   
+}
+.rasm1{
+    width: 81px;
+}
+.card-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly   ;
+    margin-top: 81px;
+}
+.infoCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center ;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cardStar{
+    width: 120px;
+}
+.Skills{
+    padding-bottom: 110px;
+}

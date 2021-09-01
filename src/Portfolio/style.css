@@ -1,0 +1,14 @@
+.Portfolio {
+  background: #f6f6f6;
+  padding-bottom: 96px;
+}
+.portfolioName {
+  font-family: Gilroy-Bold;
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  padding-top: 114px;
+  /* Black */
+
+  color: #070707;
+}
